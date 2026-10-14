@@ -1,0 +1,9 @@
+outputs/images/*.png
+outputs/lora/*.safetensors
+outputs/audit/laion_index/
+data/train/
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.Rhistory
+.env
