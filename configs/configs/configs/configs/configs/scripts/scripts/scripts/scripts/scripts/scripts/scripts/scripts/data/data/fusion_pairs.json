@@ -1,0 +1,19 @@
+{
+  "primary_pairs": [
+    {"pair_id": 0, "style_a": "ink_wash", "style_b": "cyberpunk"},
+    {"pair_id": 1, "style_a": "ukiyoe", "style_b": "baroque"},
+    {"pair_id": 2, "style_a": "ink_wash", "style_b": "minimalist"},
+    {"pair_id": 3, "style_a": "cyberpunk", "style_b": "baroque"}
+  ],
+  "generalization_pairs": [
+    {"pair_id": 4, "style_a": "ink_wash", "style_b": "minimalist"},
+    {"pair_id": 5, "style_a": "ukiyoe", "style_b": "minimalist"}
+  ],
+  "weight_ratios": [
+    {"ratio_id": 0, "weight_a": 0.3, "weight_b": 0.7},
+    {"ratio_id": 1, "weight_a": 0.5, "weight_b": 0.5},
+    {"ratio_id": 2, "weight_a": 0.7, "weight_b": 0.3},
+    {"ratio_id": 3, "weight_a": 0.5, "weight_b": 0.5}
+  ],
+  "repetitions": 5
+}
