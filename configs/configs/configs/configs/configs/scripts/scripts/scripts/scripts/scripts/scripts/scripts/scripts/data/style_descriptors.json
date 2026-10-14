@@ -1,0 +1,32 @@
+{
+  "ink_wash": [
+    "Chinese ink wash painting",
+    "sumi-e brush painting",
+    "monochromatic ink landscape",
+    "literati painting style"
+  ],
+  "ukiyoe": [
+    "Japanese ukiyo-e woodblock print",
+    "Edo period print",
+    "flat color with linear outline",
+    "floating world style"
+  ],
+  "cyberpunk": [
+    "cyberpunk neon cityscape",
+    "high-contrast futuristic",
+    "neon-lit dystopian",
+    "sci-fi urban"
+  ],
+  "baroque": [
+    "Baroque chiaroscuro painting",
+    "dramatic lighting",
+    "17th century European art",
+    "ornate theatrical composition"
+  ],
+  "minimalist": [
+    "minimalist composition",
+    "clean simple lines",
+    "reductive abstract style",
+    "negative space emphasis"
+  ]
+}
